@@ -1,0 +1,19 @@
+img {
+    width: 250px;
+}
+h1 {
+    font-size: 27px;
+}
+.allmovie {
+border: 2.5px solid black;
+width: 250px;
+height: auto;
+margin: 20px;
+}
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 270px);
+  }
+  .icons {
+    width: 16px;
+  }
